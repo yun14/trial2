@@ -16,7 +16,8 @@
                     <div class="carousel-item active">
                     <div class="row g-4 justify-content-center">
                         <!-- 4 item pertama -->
-                        <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                      <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                            <a href="https://inspektorat.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/inkab1.png" class="img-fluid rounded-top w-100" alt="">
@@ -24,14 +25,17 @@
                             </div>
                             <div class="service-content p-4">
                             <div class="service-content-inner">
-                                <a href="https://inspektorat.blorakab.go.id/" target="_blank" class="d-inline-block h4 mb-4">INKAB</a>
+                                <a href="https://inspektorat.blorakab.go.id/" target="_blank" class="d-inline-block h4 mb-4">INSPEKTORAT</a>
                                 <p class="desc">Inspektorat Blora</p>
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
+                        <!-- Trial -->
                         <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="https://bapperida.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/bapperida1.png" class="img-fluid rounded-top w-100" alt="">
@@ -44,9 +48,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
+                        <a href="https://bkpsdm.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/bkpsdm1.png" class="img-fluid rounded-top w-100" alt="">
@@ -59,9 +65,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
+                        <a href="https://bppkad.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/bppkad1.png" class="img-fluid rounded-top w-100" alt="">
@@ -74,6 +82,7 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
                     </div>
                     </div>
@@ -83,6 +92,7 @@
                     <div class="row g-4 justify-content-center">
                         <!-- 4 item berikutnya -->
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinaspendidikan.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dindik1.png" class="img-fluid rounded-top w-100" alt="">
@@ -90,14 +100,16 @@
                             </div>
                             <div class="service-content p-4">
                             <div class="service-content-inner">
-                                <a href="https://dinaspendidikan.blorakab.go.id/" target="_blank" class="d-inline-block h4 mb-4">DINDIK</a>
+                                <a href="https://dinaspendidikan.blorakab.go.id/" target="_blank" class="d-inline-block h4 mb-4">DINAS PENDIDIKAN</a>
                                 <p class="desc">Dinas Pendidikan</p>
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinkesda.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dinkesda1.png" class="img-fluid rounded-top w-100" alt="">
@@ -110,9 +122,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dpupr.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dpupr1.png" class="img-fluid rounded-top w-100" alt="">
@@ -125,9 +139,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                            <a href="https://dp4.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dp41.png" class="img-fluid rounded-top w-100" alt="">
@@ -140,6 +156,7 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
                     </div>
 
@@ -150,6 +167,7 @@
                     <div class="row g-4 justify-content-center">
                         <!-- 4 item berikutnya -->
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinperinaker.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dinperinaker1.png" class="img-fluid rounded-top w-100" alt="">
@@ -162,9 +180,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dindagkopukm.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dindagkopukm1.png" class="img-fluid rounded-top w-100" alt="">
@@ -177,9 +197,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinkominfo.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dinkominfo1.png" class="img-fluid rounded-top w-100" alt="">
@@ -192,9 +214,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dpmptsp.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dpmptsp1.png" class="img-fluid rounded-top w-100" alt="">
@@ -207,6 +231,7 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
                     </div>
 
@@ -214,6 +239,7 @@
 
                     <!-- Slide 4 -->
                     <div class="carousel-item">
+                    <a href="https://dlh.blorakab.go.id/" target="_blank">
                     <div class="row g-4 justify-content-center">
                         <!-- 4 item berikutnya -->
                         <div class="col-md-6 col-lg-6 col-xl-3">
@@ -229,9 +255,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="http://dindukcapil.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dindukcapil1.png" class="img-fluid rounded-top w-100" alt="">
@@ -244,9 +272,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://pmd.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dpmd1.png" class="img-fluid rounded-top w-100" alt="">
@@ -259,9 +289,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinsos.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dinsosp3a1.png" class="img-fluid rounded-top w-100" alt="">
@@ -274,6 +306,7 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
                     </div>
 
@@ -284,6 +317,7 @@
                     <div class="row g-4 justify-content-center">
                         <!-- 4 item berikutnya -->
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dppkb.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dppkb1.png" class="img-fluid rounded-top w-100" alt="">
@@ -296,9 +330,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dpk.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dpk1.png" class="img-fluid rounded-top w-100" alt="">
@@ -311,9 +347,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinporabudpar.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dinporabudpar1.png" class="img-fluid rounded-top w-100" alt="">
@@ -326,9 +364,11 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://dinrumkimhub.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/dinrumkimhub1.png" class="img-fluid rounded-top w-100" alt="">
@@ -341,6 +381,7 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
                     </div>
 
@@ -351,6 +392,7 @@
                     <div class="row g-4 justify-content-center">
                         <!-- 4 item berikutnya -->
                         <div class="col-md-6 col-lg-6 col-xl-3">
+                        <a href="https://satpolpp.blorakab.go.id/" target="_blank">
                         <div class="service-item h-100">
                             <div class="service-img">
                             <img src="template/img/satpolpp1.png" class="img-fluid rounded-top w-100" alt="">
@@ -363,6 +405,7 @@
                             </div>
                             </div>
                         </div>
+                        </a>
                         </div>
 
 
