@@ -432,6 +432,18 @@
                             <div class="container py-2">
                                 <div class="text-center mx-auto pb-4" style="max-width: 700px;">
                                     <h4 class="text-primary fw-semibold mb-2">Data Kepegawaian</h4>
+                                    <p class="text-muted mb-4">Data Pegawai OPD di Kabupaten Blora</p>
+                                </div>
+                                <div class="row g-4 justify-content-center">
+                                   <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://www.blorakab.go.id/index.php/public/pegawai" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/pegawai.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Data Pegawai</h5>
+                                                <p class="text-muted mb-0 small">Pejabat dan Staf OPD Kabupaten Blora</p>
                                     <p class="text-muted mb-4">Informasi & administrasi pegawai</p>
                                 </div>
                                 <div class="row g-4 justify-content-center">
@@ -469,32 +481,60 @@
                             <div class="container py-2">
                                 <div class="text-center mx-auto pb-4" style="max-width: 700px;">
                                     <h4 class="text-primary fw-semibold mb-2">Data Wisata</h4>
-                                    <p class="text-muted mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                                    <p class="text-muted mb-4">Informasi destinasi wisata di Kabupaten Blora</p>
                                 </div>
                                 <div class="row g-4 justify-content-center">
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://google.com" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/7WqCgsNoVAoMsSQE7" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/blog-1.png" alt="">
+                                                <img src="template/img/wisata/goaterawang.jpg" alt="">
                                             </div>
                                             <div class="services-content mt-3">
-                                                <h5 class="fw-semibold mb-1">Lorem</h5>
-                                                <p class="text-muted mb-0 small">Lorem ipsum lorem ipsum ...</p>
+                                                <h5 class="fw-semibold mb-1">Goa Terawang Eco Park</h5>
+                                                <p class="text-muted mb-0 small">Kec. Todanan</p>
                                             </div>
                                         </div>
                                         </a>
                                     </div>
 
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://google.com" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/aNf1m4sSMDJANPFK9" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/blog-1.png" alt="">
+                                                <img src="template/img/wisata/noyogimbal.jpg" alt="">
                                             </div>
                                             <div class="services-content mt-3">
-                                                <h5 class="fw-semibold mb-1">Lorem</h5>
-                                                <p class="text-muted mb-0 small">Lorem ipsum lorem ipsum ...</p>
+                                                <h5 class="fw-semibold mb-1">Noyo Gimbal View</h5>
+                                                <p class="text-muted mb-0 small">Ds. Bangsri, Kec. Jepon</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/QBsMEoYjUnRBFpPE9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/wbbtinapan.jpg" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Wisata Banyu Bening</h5>
+                                                <p class="text-muted mb-0 small">Tinapan, Kec. Todanan</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/eJ3jrKNeYx9BYEVo9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/mcedupark.jpeg" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">MC Edupark</h5>
+                                                <p class="text-muted mb-0 small">Wonotejo, Kec. Cepu</p>
                                             </div>
                                         </div>
                                         </a>
