@@ -4,13 +4,13 @@
                 <div class="text-center mx-auto pb-5" style="max-width: 800px;">
                     <h4 class="text-primary">Pelayanan Kami</h4>
                     {{-- <h4 class="display-5 mb-5">Tersedia Pelayanan ... </h4> --}}
-                    <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae.</p>
+                    <p class="mb-0">Berbagai layanan publik untuk kemudahan akses informasi dan administrasi Kabupaten Blora</p>
                 </div>
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="feature-item p-4 pt-0"
                              data-bs-toggle="modal"
-                             data-bs-target="#kesehatan"
+                             data-bs-target="#aplikasi"
                              style="cursor: pointer;">
 
                             <div class="feature-icon p-4 mb-4">
@@ -19,7 +19,7 @@
 
                             <h4 class="mb-4">Aplikasi</h4>
 
-                            <p class="mb-4">Layanan publik secara elektronik, akses administrasi dan informasi
+                            <p class="mb-4">Layanan publik secara elektronik dengan akses mudah dan cepat
                             </p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                                 <i class="fas fa-coins fa-3x"></i>
                             </div>
                             <h4 class="mb-4">Keuangan</h4>
-                            <p class="mb-4">Target dan realisasi pajak daerah seperti PBJT, pajak reklame, dan pajak lainnya</p>
+                            <p class="mb-4">Target dan realisasi pajak daerah seperti PBJT, pajak reklame, dan lainnya</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
@@ -86,7 +86,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="1.4s">
                         <div class="feature-item p-4 pt-0"
                              data-bs-toggle="modal"
-                             data-bs-target="#aduan"
+                             data-bs-target="#satudata"
                              style="cursor: pointer;">
                             <div class="feature-icon p-4 mb-4">
                                 <i class="fa fa-database fa-3x"></i>
@@ -115,7 +115,7 @@
 </div>
 
         <!-- Modal Kesehatan -->
-        <div class="modal fade" id="kesehatan" tabindex="-1" aria-labelledby="kesehatanLabel">
+        <div class="modal fade" id="aplikasi" tabindex="-1" aria-labelledby="aplikasiLabel">
             <div class="modal-dialog modal-lg modal-dialog-centered">
                 <div class="modal-content rounded-4">
                     <div class="modal-body text-center">
@@ -187,15 +187,15 @@
                                         </a>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://dinaspendidikan.blorakab.go.id/pandulima/" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://lakon.blorakab.go.id/" target="_blank" class="w-100 text-decoration-none">
                                             <div class="services-item d-flex flex-column align-items-center text-center">
                                                 <div class="services-img">
-                                                    <img src="template/img/pandulima2.png" alt="Pandulima">
+                                                    <img src="template/img/lakon1.png" alt="lakon">
                                                 </div>
                                                 <div class="services-content mt-3">
 
-                                                        <h5 class="fw-semibold mb-1">Pandulima</h5>
-                                                        <p class="text-muted mb-0 small">Pelayanan Terpadu Lincah dan Prima</p>
+                                                        <h5 class="fw-semibold mb-1">Lakon</h5>
+                                                        <p class="text-muted mb-0 small">Layanan Kartu Kuning Online</p>
 
                                                 </div>
                                             </div>
@@ -246,46 +246,46 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://lakon.blorakab.go.id/" target="_blank" class="w-100 text-decoration-none">
+                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://ats.blorakab.go.id/" target="_blank" class="w-100 text-decoration-none">
                                             <div class="services-item d-flex flex-column align-items-center text-center">
                                                 <div class="services-img">
-                                                    <img src="template/img/lakon1.png" alt="lakon">
+                                                    <img src="template/img/silat.png" alt="Silat">
                                                 </div>
                                                 <div class="services-content mt-3">
 
-                                                        <h5 class="fw-semibold mb-1">Lakon</h5>
-                                                        <p class="text-muted mb-0 small">Layanan Kartu Kuning Online</p>
+                                                        <h5 class="fw-semibold mb-1">SILAT</h5>
+                                                        <p class="text-muted mb-0 small">Sistem Informasi Layanan Anak Tidak Sekolah</p>
 
                                                 </div>
                                             </div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeR3lJ8RmwrbFWjAPycl3yCYBksXhiWzGKRyo6eh2OW5kEX2g/viewform" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://esptpd.blorakab.go.id/" target="_blank" class="w-100 text-decoration-none">
                                             <div class="services-item d-flex flex-column align-items-center text-center">
                                                 <div class="services-img">
-                                                    <img src="template/img/dlhtaman1.png" alt="peminjaman taman">
+                                                    <img src="template/img/esptpd.png" alt="lapor pajak">
                                                 </div>
                                                 <div class="services-content mt-3">
 
-                                                        <h5 class="fw-semibold mb-1">Perizinan Taman</h5>
-                                                        <p class="text-muted mb-0 small">Layanan Izin Peminjaman Taman</p>
+                                                        <h5 class="fw-semibold mb-1">E-SPTPD</h5>
+                                                        <p class="text-muted mb-0 small">Sistem Elektronik Pajak Daerah</p>
 
                                                 </div>
                                             </div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://jagadesa.kejaksaan.go.id/" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://ebphtb.blorakab.go.id/" target="_blank" class="w-100 text-decoration-none">
                                             <div class="services-item d-flex flex-column align-items-center text-center">
                                                 <div class="services-img">
-                                                    <img src="template/img/jagadesa1.png" alt="jaga desa">
+                                                    <img src="template/img/ebphtb.png" alt="bphtb online">
                                                 </div>
                                                 <div class="services-content mt-3">
 
-                                                        <h5 class="fw-semibold mb-1">Jaga Desa</h5>
-                                                        <p class="text-muted mb-0 small">Sarana Digital Keterbukaan Informasi Desa</p>
+                                                        <h5 class="fw-semibold mb-1">E-BPHTB</h5>
+                                                        <p class="text-muted mb-0 small">Pelayanan BPHTB Online untuk Notaris</p>
 
                                                 </div>
                                             </div>
@@ -436,17 +436,17 @@
                                 </div>
                                 <div class="row g-4 justify-content-center">
                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://www.instagram.com/p/DTM7ZizgQgG/?utm_source=ig_web_copy_link&img_index=2" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://www.blorakab.go.id/index.php/public/pegawai" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/jumlah1.png" alt="">
+                                                <img src="template/img/pegawai.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
-                                                <h5 class="fw-semibold mb-1">Pegawai Negeri</h5>
-                                                <p class="text-muted mb-0 small">Jumlah Pegawai Negeri per 07 Januari 2026</p>
+                                                <h5 class="fw-semibold mb-1">Data Pegawai</h5>
+                                                <p class="text-muted mb-0 small">Pejabat dan Staf OPD Kabupaten Blora</p>
                                             </div>
                                         </div>
-                                        </a>
+                                    </a>
                                     </div>
                                 </div>
                             </div>
@@ -469,32 +469,60 @@
                             <div class="container py-2">
                                 <div class="text-center mx-auto pb-4" style="max-width: 700px;">
                                     <h4 class="text-primary fw-semibold mb-2">Data Wisata</h4>
-                                    <p class="text-muted mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                                    <p class="text-muted mb-4">Informasi destinasi wisata di Kabupaten Blora</p>
                                 </div>
                                 <div class="row g-4 justify-content-center">
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://google.com" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/7WqCgsNoVAoMsSQE7" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/blog-1.png" alt="">
+                                                <img src="template/img/wisata/goaterawang.jpg" alt="">
                                             </div>
                                             <div class="services-content mt-3">
-                                                <h5 class="fw-semibold mb-1">Lorem</h5>
-                                                <p class="text-muted mb-0 small">Lorem ipsum lorem ipsum ...</p>
+                                                <h5 class="fw-semibold mb-1">Goa Terawang Eco Park</h5>
+                                                <p class="text-muted mb-0 small">Kec. Todanan</p>
                                             </div>
                                         </div>
                                         </a>
                                     </div>
 
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://google.com" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/aNf1m4sSMDJANPFK9" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/blog-1.png" alt="">
+                                                <img src="template/img/wisata/noyogimbal.jpg" alt="">
                                             </div>
                                             <div class="services-content mt-3">
-                                                <h5 class="fw-semibold mb-1">Lorem</h5>
-                                                <p class="text-muted mb-0 small">Lorem ipsum lorem ipsum ...</p>
+                                                <h5 class="fw-semibold mb-1">Noyo Gimbal View</h5>
+                                                <p class="text-muted mb-0 small">Ds. Bangsri, Kec. Jepon</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/QBsMEoYjUnRBFpPE9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/wbbtinapan.jpg" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Wisata Banyu Bening</h5>
+                                                <p class="text-muted mb-0 small">Tinapan, Kec. Todanan</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/eJ3jrKNeYx9BYEVo9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/mcedupark.jpeg" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">MC Edupark</h5>
+                                                <p class="text-muted mb-0 small">Wonotejo, Kec. Cepu</p>
                                             </div>
                                         </div>
                                         </a>
@@ -514,7 +542,7 @@
         </div>
         <!-- Modal Kuliner -->
         <div class="modal fade" id="kuliner" tabindex="-1" aria-labelledby="kulinerLabel">
-            <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
                 <div class="modal-content rounded-4">
                     <div class="modal-body text-center">
                         <div class="container-fluid service py-2">
@@ -524,67 +552,132 @@
                                     <p class="text-muted mb-4">10 Top Kuliner Blora</p>
                                 </div>
                                 <div class="row g-4 justify-content-center">
-                                  <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://maps.app.goo.gl/zG22qE2jYdqQk8ek6" target="_blank" class="w-100 text-decoration-none">
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/S1iRiD4ozvTQ7YYc7" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
                                                 <img src="template/img/sate1.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Sate Pak Daman</h5>
-                                                <p class="text-muted mb-0 small">Jl. Gunung Sumbing No. 1, Tempelan</p>
+                                                <p class="text-muted mb-0 small">Tempelan</p>
                                             </div>
                                         </div>
                                         </a>
                                     </div>
                                      <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://maps.app.goo.gl/VL7wD7gqKesrHJnA9" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/kTN51DumE4U6RZfV7" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
                                                 <img src="template/img/soto1.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Soto Klethuk Pa'Galo</h5>
-                                                <p class="text-muted mb-0 small">Jl. Gunung Sindoro No. 1C, Tempelan</p>
+                                                <p class="text-muted mb-0 small">Tempelan</p>
                                             </div>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://maps.app.goo.gl/Sk5y1CrEqVUMgahJ6" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/pJhJyKMKxwiLiMo5A" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
                                                 <img src="template/img/lontong1.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Lontong Tahu Pak Dasrip</h5>
-                                                <p class="text-muted mb-0 small">Jl. RA. Kartini, Kunden</p>
+                                                <p class="text-muted mb-0 small">Kunden</p>
                                             </div>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://maps.app.goo.gl/3r1Yi7qFQnADjaid9" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/N9PQdq5qUpMLLHMU9" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
                                                 <img src="template/img/pecel2.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Pecel Mbak Tun</h5>
-                                                <p class="text-muted mb-0 small">Jl. Mr. Iskandar, Mlangsen (seberang Koplakan)</p>
+                                                <p class="text-muted mb-0 small">Mlangsen</p>
                                             </div>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
-                                        <a href="https://maps.app.goo.gl/3r1Yi7qFQnADjaid9" target="_blank" class="w-100 text-decoration-none">
+                                        <a href="https://maps.app.goo.gl/PPVFjkabCisXbgkb7" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
                                                 <img src="template/img/ayambakar1.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Ayam Bakar Mak Gogok</h5>
-                                                <p class="text-muted mb-0 small">Jl. Mr. Iskandar, Mlangsen (seberang Koplakan)</p>
+                                                <p class="text-muted mb-0 small">Mlangsen</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/e9Tu2zhWw4eKWArY7" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/lontongopor1.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Lontong Opor Pak Pangat</h5>
+                                                <p class="text-muted mb-0 small">Ngloram</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/97KSFmN8Cd7bqR8S7" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/iwakjendil1.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Iwak Jendhil Bu Nur</h5>
+                                                <p class="text-muted mb-0 small">Ngloram</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/cBFEznVurihnrUnM9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/rawon1.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Rawon Bu Suripan</h5>
+                                                <p class="text-muted mb-0 small">Mlangsen</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/FG8Xdi65oAg8qSp26" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/nasgor1.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Nasi Goreng Pak Ndut</h5>
+                                                <p class="text-muted mb-0 small">Kedungjenar</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/JHU7MSACBh1GdmgH8" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/koplakan1.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Sentra Kuliner Koplakan</h5>
+                                                <p class="text-muted mb-0 small">Mlangsen</p>
                                             </div>
                                         </div>
                                         </a>
@@ -602,7 +695,7 @@
             </div>
         </div>
         <!-- Modal Aduan -->
-        <div class="modal fade" id="aduan" tabindex="-1" aria-labelledby="aduanLabel">
+        <div class="modal fade" id="satudata" tabindex="-1" aria-labelledby="satudataLabel">
             <div class="modal-dialog modal-lg modal-dialog-centered">
                 <div class="modal-content rounded-4">
                     <div class="modal-body text-center">
