@@ -414,6 +414,7 @@
                                 </div>
                                 <div class="row g-4 justify-content-center">
                                     <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        {{-- <a href="{{ route('pajak-daerah') }}" target="_blank" class="w-100 text-decoration-none"> --}}
                                         <a href="http://112.78.43.172/" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
@@ -447,7 +448,7 @@
                             <div class="container py-2">
                                 <div class="text-center mx-auto pb-4" style="max-width: 700px;">
                                     <h4 class="text-primary fw-semibold mb-2">Data Kepegawaian</h4>
-                                    <p class="text-muted mb-4">Data Pegawai OPD di Kabupaten Blora</p>
+                                    <p class="text-muted mb-4">Informasi & administrasi pegawai</p>
                                 </div>
                                 <div class="row g-4 justify-content-center">
                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
@@ -462,7 +463,7 @@
                                             </div>
                                         </div>
                                         </a>
-                                    </div>
+                                   </div>
                                 </div>
                             </div>
                         </div>
@@ -477,7 +478,7 @@
         </div>
         <!-- Modal Wisata -->
         <div class="modal fade" id="wisata" tabindex="-1" aria-labelledby="wisataLabel">
-            <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
                 <div class="modal-content rounded-4">
                     <div class="modal-body text-center">
                         <div class="container-fluid service py-2">
@@ -491,7 +492,7 @@
                                         <a href="https://maps.app.goo.gl/7WqCgsNoVAoMsSQE7" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/wisata/goaterawang.jpg" alt="">
+                                                <img src="template/img/wisata/goaterawang.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Goa Terawang Eco Park</h5>
@@ -505,7 +506,7 @@
                                         <a href="https://maps.app.goo.gl/aNf1m4sSMDJANPFK9" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/wisata/noyogimbal.jpg" alt="">
+                                                <img src="template/img/wisata/noyogimbal.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Noyo Gimbal View</h5>
@@ -519,7 +520,7 @@
                                         <a href="https://maps.app.goo.gl/QBsMEoYjUnRBFpPE9" target="_blank" class="w-100 text-decoration-none">
                                         <div class="services-item d-flex flex-column align-items-center text-center">
                                             <div class="services-img">
-                                                <img src="template/img/wisata/wbbtinapan.jpg" alt="">
+                                                <img src="template/img/wisata/wbbtinapan.png" alt="">
                                             </div>
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">Wisata Banyu Bening</h5>
@@ -538,6 +539,76 @@
                                             <div class="services-content mt-3">
                                                 <h5 class="fw-semibold mb-1">MC Edupark</h5>
                                                 <p class="text-muted mb-0 small">Wonotejo, Kec. Cepu</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/1hbCMbVsX9dtztFt9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/goasentono.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Goa Sentono</h5>
+                                                <p class="text-muted mb-0 small">Mendenrejo, Kec. Kradenan</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/o38KUFDtem5G3NAn6" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/waduk-tempuran.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Wisata Waduk Tempuran</h5>
+                                                <p class="text-muted mb-0 small">Tempuran, Blora</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/hBZPVHGn99t5wtp48" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/waduk-greneng.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Waduk Greneng</h5>
+                                                <p class="text-muted mb-0 small">Tunjungan, Blora</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/a2YdyUtAsJtiSnKd9" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/loco-tour.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Heritage Trainz Loco Tour</h5>
+                                                <p class="text-muted mb-0 small">Ngelo, Kec. Cepu</p>
+                                            </div>
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-6 col-md-4 col-lg-3 d-flex">
+                                        <a href="https://maps.app.goo.gl/xNuBM8CzPGQACpHa8" target="_blank" class="w-100 text-decoration-none">
+                                        <div class="services-item d-flex flex-column align-items-center text-center">
+                                            <div class="services-img">
+                                                <img src="template/img/wisata/kampung-samin.png" alt="">
+                                            </div>
+                                            <div class="services-content mt-3">
+                                                <h5 class="fw-semibold mb-1">Desa Wisata "Kampung Samin"</h5>
+                                                <p class="text-muted mb-0 small">Sambongrejo</p>
                                             </div>
                                         </div>
                                         </a>
