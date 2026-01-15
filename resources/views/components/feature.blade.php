@@ -116,7 +116,7 @@
 
         <!-- Modal Kesehatan -->
         <div class="modal fade" id="aplikasi" tabindex="-1" aria-labelledby="aplikasiLabel">
-            <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
                 <div class="modal-content rounded-4">
                     <div class="modal-body text-center">
                         <div class="container-fluid service py-2">
