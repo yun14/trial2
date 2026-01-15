@@ -26,3 +26,6 @@ Route::get('/visimisi', function () {
 Route::get('/beranda', function () {
     return view('beranda');
 })->name('beranda');
+
+Route::view('/pajak-daerah', 'pajak-daerah')
+    ->name('pajak-daerah');
