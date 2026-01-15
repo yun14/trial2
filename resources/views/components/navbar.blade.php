@@ -25,10 +25,7 @@
           </ul>
         </li>
 
-        <li class="nav-item"><a href="https://google.com/" target="_blank" class="nav-link">Bantuan</a></li>
-        <li class="nav-item"><a href="https://google.com/" target="_blank" class="nav-link">Panduan</a></li>
-        <li class="nav-item"><a href="https://google.com/" target="_blank" class="nav-link">FAQ</a></li>
-        <li class="nav-item"><a href="https://google.com/" target="_blank" class="nav-link">HAKI</a></li>
+
         <li class="nav-item"><a href="https://csirt.blorakab.go.id/" target="_blank" class="nav-link">CSIRT</a></li>
       </ul>
 
